@@ -1,6 +1,6 @@
 # delani-project_bana
 
-# Delani-Studio
+
 
 ## Author
 
@@ -15,7 +15,7 @@ This project is a web application for Delani studio that shows details about the
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/Owiti-Charles/Delani-Studio.git```
+* git clone ``` https://kirezibana.github.io/delani-project_bana/```
 
 * cd Delani-Studio
 
