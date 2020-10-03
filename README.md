@@ -33,10 +33,10 @@ This project is a web application for Delani studio that shows details about the
 ## BDD
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
-|  Enter your name  |   Owiti Charles |     |
+|  Enter your name  |   Kirezi Bana Hortense |     |
 | Enter your Email Address  | hortensebana32@gmail.com |   |
 | Enter your message or comment   |  I would love to work with you     |     |
-| Press Submit|     |Pop up "Owiti Charles , we have received your message. Thank you for reaching out to us.|
+| Press Submit|     |Pop up "kirezi bana hortense , we have received your message. Thank you for reaching out to us.|
 
 ## Known Bugs
 * The site is not responsive enough for some devices. 
