@@ -4,7 +4,7 @@
 
 ## Author
 
-[Kirezi Bana Hortense](https://github.com/Owiti-Charles)
+[Kirezi Bana Hortense]
 
 ## Description
 
